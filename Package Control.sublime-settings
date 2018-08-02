@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AceJump",
+		"Anaconda",
+		"ayu",
+		"BracketHighlighter",
+		"Caffe Prototxt Syntax",
+		"Clang Format",
+		"CMake",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"EasyClangComplete",
+		"Facebook Material Theme",
+		"GitGutter",
+		"Gitignored File Excluder",
+		"Material Monokai",
+		"Materialize",
+		"Package Control",
+		"TerminalView",
+		"Text Pastry",
+		"Theme - Brogrammer",
+		"Virtualenv"
+	]
+}

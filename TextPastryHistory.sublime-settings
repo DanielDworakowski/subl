@@ -1,0 +1,79 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "5"
+				},
+				"command": "text_pastry_step",
+				"text": "5"
+			},
+			"key": "e4da3b7fbbce2345d7772b0674a318d5",
+			"label": "5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "4"
+				},
+				"command": "text_pastry_step",
+				"text": "4"
+			},
+			"key": "a87ff679a2f3e71d9181a67b7542122c",
+			"label": "4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "0"
+				},
+				"command": "text_pastry_range",
+				"text": "range 0"
+			},
+			"key": "5349240a31c0e7aa1cd061d3916744ca",
+			"label": "range 0"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"stop": "0"
+		},
+		"command": "text_pastry_range",
+		"text": "range 0"
+	}
+}

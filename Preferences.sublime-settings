@@ -1,0 +1,85 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"extra_folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.tfevents*",
+		"/home/asblab/code/gocr/nn/core/__init__.pyc",
+		"/home/asblab/code/gocr/nn/core/Trainer.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"/home/asblab/code/gocr/nn/__pycache__",
+		"/home/asblab/code/gocr/nn/runs",
+		"/home/asblab/code/gocr/nn/data/__pycache__",
+		"/home/asblab/code/gocr/nn/config/__pycache__",
+		"/home/asblab/code/gocr/nn/core/__pycache__",
+		"/home/asblab/code/gocr/nn/models/__pycache__",
+		"/home/asblab/code/gocr/nn/util/__pycache__"
+	],
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "ayu-dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
