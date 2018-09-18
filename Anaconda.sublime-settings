@@ -2,5 +2,8 @@
     "anaconda_linter_underlines":false,
     "anaconda_linter_phantoms":true,
     "pep8": false,
-    "python_interpreter": "/home/asblab/anaconda3/envs/pt36/bin/python",
+    "use_pylint": false,
+    "python_interpreter": "/home/asblab/anaconda3/bin/python",
+    "anaconda_linter_persistent": true,
+
 }

@@ -26,6 +26,8 @@
 		"Materialize-Appbar",
 		"Package Control",
 		"PackageResourceViewer",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"TerminalView",
 		"Text Pastry",
 		"Theme - Brogrammer",
